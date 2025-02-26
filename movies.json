@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "name": "أفلام عربية",
+      "url": "https://wecima.watch/category/أفلام/افلام-عربي-arabic-movies/"
+    },
+    {
+      "name": "أفلام أجنبية",
+      "url": "https://wecima.watch/category/أفلام/10-movies-english-افلام-اجنبي/"
+    },
+    {
+      "name": "أفلام هندية",
+      "url": "https://wecima.watch/category/أفلام/افلام-هندي-indian-movies/"
+    }
+    // يمكنك إضافة المزيد من التصنيفات هنا...
+  ]
+}
