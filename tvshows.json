@@ -1,18 +1,26 @@
-{
-  "categories": [
-    "مسلسلات عربية",
-    "مسلسلات اجنبي",
-    "مسلسلات تركية",
-    "مسلسلات هندية",
-    "مسلسلات اسيوية",
-    "برامج تليفزيونية"
-  ],
-  "urls": [
-    "https://wecima.watch/category/مسلسلات/15-مسلسلات-عربيه-arabic-series/list/",
-    "https://wecima.watch/category/مسلسلات/6-series-english-مسلسلات-اجنبي/list/",
-    "https://wecima.watch/category/مسلسلات/10-مسلسلات-تركية-turkish-series/list/",
-    "https://wecima.watch/category/مسلسلات/10-series-indian-مسلسلات-هندية/list/",
-    "https://wecima.watch/category/مسلسلات/1-مسلسلات-اسيوية/list/",
-    "https://wecima.watch/category/برامج-تليفزيونية/list/"
-  ]
-}
+[
+  {
+    "category": "مسلسلات عربية",
+    "url": "https://wecima.watch//category/مسلسلات/15-مسلسلات-عربيه-arabic-series/list/"
+  },
+  {
+    "category": "مسلسلات اجنبي",
+    "url": "https://wecima.watch/category/مسلسلات/6-series-english-مسلسلات-اجنبي/list/"
+  },
+  {
+    "category": "مسلسلات تركية",
+    "url": "https://wecima.watch/category/مسلسلات/10-مسلسلات-تركية-turkish-series/list/"
+  },
+  {
+    "category": "مسلسلات هندية",
+    "url": "https://wecima.watch/category/مسلسلات/10-series-indian-مسلسلات-هندية/list/"
+  },
+  {
+    "category": "مسلسلات اسيوية",
+    "url": "https://wecima.watch/category/مسلسلات/1-مسلسلات-اسيوية/list/"
+  },
+  {
+    "category": "برامج تليفزيونية",
+    "url": "https://wecima.watch//category/برامج-تليفزيونية/list/"
+  }
+]
