@@ -1,0 +1,12 @@
+[
+  {
+    "title": "اسم المسلسل",
+    "imageUrl": "https://example.com/poster.jpg",
+    "detailUrl": "https://example.com/details"
+  },
+  {
+    "title": "اسم مسلسل آخر",
+    "imageUrl": "https://example.com/poster2.jpg",
+    "detailUrl": "https://example.com/details2"
+  }
+]
