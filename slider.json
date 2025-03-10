@@ -2,12 +2,14 @@
   "slider": [
     {
       "name": "الكابتن",
-      "image": "https://deva.cimanow.online/wp-content/uploads/2025/02/مسلسل-العتاولة-الموسم-الثاني-كلين.jpg",
+      "cover": "https://deva.cimanow.online/wp-content/uploads/2025/02/مسلسل-العتاولة-الموسم-الثاني-كلين.jpg",
+      "poster": "https://deva.cimanow.online/wp-content/uploads/2025/02/مسلسل-العتاولة-الموسم-الثاني-كلين.jpg",
       "url": "https://wecima.watch/series/%d8%a7%d9%84%d8%b9%d8%aa%d8%a7%d9%88%d9%84%d8%a9/"
     },
     {
       "name": "العتاولة ",
-      "image": "https://deva.cimanow.online/wp-content/uploads/2025/02/مسلسل-العتاولة-الموسم-الثاني-كوفر.jpg",
+      "cover": "https://deva.cimanow.online/wp-content/uploads/2025/02/مسلسل-العتاولة-الموسم-الثاني-كوفر.jpg",
+      "poster": "https://deva.cimanow.online/wp-content/uploads/2025/02/مسلسل-العتاولة-الموسم-الثاني-كوفر.jpg",
       "url": "https://wecima.watch/series/%d8%a7%d9%84%d8%b9%d8%aa%d8%a7%d9%88%d9%84%d8%a9/"
     }
   ]
